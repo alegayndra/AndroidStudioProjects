@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Fragments</string>
+
+    <!-- Placeholder text for this example. -->
+    <string name="title1">Nintendo Switch</string>
+    <string name="article1">Nintendo considera a Switch una consola híbrida. Se puede utilizar como consola de sobremesa con la unidad principal insertada en una estación de acoplamiento para conectarla con un televisor. Alternativamente, puede ser extraída de la base y utilizada de forma similar a una tableta a través de su pantalla táctil LCD, o colocada sobre una superficie gracias a su soporte plástico integrado siendo así visible por varios jugadores.</string>
+
+    <!-- Text for the fragment. -->
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="yes_message">ARTICLE: Like</string>
+    <string name="no_message">ARTICLE: Thanks</string>
+    <string name="question_article">LIKE THE ARTICLE?</string>
+
+    <!-- Text for the button in FragmentExample2. -->
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- Text for the exception message in FragmentCommunicate. -->
+    <string name="exception_message">must implement OnFragmentInteractionListener</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

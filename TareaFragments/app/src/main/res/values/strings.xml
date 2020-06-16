@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TareaFragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="frag_inicial_title">Selecciona una encuesta</string>
+    <string name="encuesta_a">ENCUESTA A - TECNOLOGÍA</string>
+    <string name="encuesta_b">ENCUESTA B - DEPORTES</string>
+
+    <string name="text_true">True</string>
+    <string name="text_false">False</string>
+
+    <string name="prev_btn">&lt;&lt; PREV</string>
+    <string name="next_btn">NEXT &gt;&gt;</string>
+
+    <string name="check_btn">CHECK ANSWER</string>
+
+    <string name="exception_message">must implement OnFragmentInteractionListener</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tarea 2 - Quizz</string>
+    <string name="true_button">Cierto</string>
+    <string name="false_button">Falso</string>
+    <string name="next_button">Siguiente</string>
+
+    <string name="correct_toast">¡Correcto!</string>
+    <string name="false_toast">Weeeey noooo</string>
+</resources>

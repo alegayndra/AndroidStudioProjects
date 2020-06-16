@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Parcial 1</string>
+
+    <string name="calculator">Calculador</string>
+    <string name="conversion">MXN a USD</string>
+    <string name="changeName">Cambia mi Nombre</string>
+
+    <string name="changeValue">Tipo de Cambio:</string>
+    <string name="mxn_to_usd">MXN a USD</string>
+    <string name="conversionValue">0 USD</string>
+
+    <string name="changeNameTextBtn">ChangeName</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pruebas</string>
+    <string name="convert_button">Convert to Celsius</string>
+    <string name="degrees">Insert a value</string>
+
+    <string name="correct_toast">YES!</string>
+    <string name="false_toast">NO!</string>
+</resources>

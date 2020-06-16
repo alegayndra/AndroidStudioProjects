@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tarea 1 - Conversion de Grados</string>
+    <string name="convert_button">Convertir a Celsius</string>
+    <string name="degrees">Esperando valor</string>
+    <string name="infoText">Ingrese un valor en Farenheit</string>
+
+</resources>

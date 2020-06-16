@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TareaDB</string>
+    <string name="titulo">Notas rápidas</string>
+    <string name="ultima_act">Última actualización: </string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="guardado_alert">Nota guardada correctamente</string>
+    <string name="eliminado_alert">Nota eliminada</string>
+    <string name="error">Vuelva a intentarlo</string>
+</resources>
